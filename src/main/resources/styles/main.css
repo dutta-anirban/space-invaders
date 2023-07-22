@@ -1,0 +1,39 @@
+.label-base {
+    -fx-font-family: "Lucida Console";
+    -fx-font-weight: bold;
+    -fx-padding: 5;
+}
+
+.label-header {
+    -fx-font-size: 100;
+}
+
+.label-scoreboard {
+    -fx-font-size: 40;
+    -fx-text-fill: white;
+}
+
+.label-title {
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+}
+
+.label-info {
+    -fx-padding: 10 ! important;
+    -fx-font-size: 20;
+    -fx-text-fill: green;
+    -fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: green;
+}
+
+.popup-vbox {
+    -fx-border-color: white;
+    -fx-padding: 10;
+    -fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+}

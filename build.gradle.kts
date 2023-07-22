@@ -10,7 +10,7 @@ version = "1.0-SNAPSHOT"
 repositories {
     mavenCentral()
 }
-3
+
 dependencies {
     testImplementation(kotlin("test"))
     implementation("io.github.mkpaz:atlantafx-base:1.2.0")
@@ -31,7 +31,7 @@ application {
 
 javafx {
     version = "18.0.2"
-    modules("javafx.controls", "javafx.graphics")
+    modules("javafx.controls", "javafx.graphics", "javafx.media")
 }
 
 tasks.jar {
