@@ -1,11 +1,9 @@
-# Anirban Dutta
-### Student ID: 20813366 / a9dutta
+# Space Invaders: Project Specification
+
 ```
 kotlinc-jvm 1.8.21-release-380 (JRE 1.8.0_371-b11)
 Windows 10 Home 64-bit 22H2 (Build 19044.1387)
 ```
-
-# Space Invaders: Project Specification
 
 ## 1. Home Screen
 The Home Screen contains the following components:
@@ -91,5 +89,4 @@ the next level when all the aliens are killed. The player wins the game when the
   - Alien reaching the bottom of the screen
 
 ## Attributions:
-All image and sound assets used in this project are from [CS349 S23 Assignment 3](https://student.cs.uwaterloo.ca/~cs349/1235/schedule/assignments/a3/).
-A link to the resources is provided [here](https://student.cs.uwaterloo.ca/~cs349/1235/schedule/assignments/a3/space-invaders-assets.zip).
+All image and sound assets used in this project are from [here](https://student.cs.uwaterloo.ca/~cs349/1235/schedule/assignments/a3/space-invaders-assets.zip).
